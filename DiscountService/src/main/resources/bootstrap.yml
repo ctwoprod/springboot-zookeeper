@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: discountService
+  cloud:
+    zookeeper:
+      discovery:
+        enabled: true

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: itemService
+  cloud:
+    zookeeper:
+      discovery:
+        enabled: true

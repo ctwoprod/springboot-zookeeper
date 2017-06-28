@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: stockService
+  cloud:
+    zookeeper:
+      discovery:
+        enabled: true
